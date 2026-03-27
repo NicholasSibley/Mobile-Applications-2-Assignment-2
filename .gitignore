@@ -1,0 +1,19 @@
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xccheckout
+*.xcodeproj/project.xcworkspace/xcuserdata
+DerivedData/
+build/
+*.ipa
+*.dSYM
+
+# macOS metadata
+__MACOSX/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Logs
+*.log
